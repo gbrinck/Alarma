@@ -8,6 +8,7 @@ Para este tutorial se requiere:
 1x PIR (Sensor de movimiento pasivo) (+1 Opcional)
 1x Buzzer
 1 x JQ6500 (opcional)
+1 x mini parlante (opcional)
 cables
 
 ![Raspi_pico_PIR_bb](https://user-images.githubusercontent.com/79753401/110540454-8663e000-80f4-11eb-86ad-76c4fdedeaeb.jpg)
